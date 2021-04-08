@@ -23,33 +23,7 @@
       "id": 2
     }
   ],
-  "users": [
-    {
-      "name": "bob",
-      "email": "b@b.com",
-      "id": 1
-    },
-    {
-      "name": "bob",
-      "email": "b@b.com",
-      "id": 2
-    },
-    {
-      "name": "b",
-      "email": "b@b.com",
-      "id": 3
-    },
-    {
-      "name": "b",
-      "email": "b@b.com",
-      "id": 4
-    },
-    {
-      "name": "b",
-      "email": "b@b.com",
-      "id": 5
-    }
-  ],
+  "users": [],
   "robots": [
     {
       "robotName": "C8-09S100K",
